@@ -1,2 +1,2 @@
-# Dune-minimalist-watchface-c
-Watchface made in c for the pebble watches
+# Dune-minimalist-watchface-JS
+Watch face made in JavaScript for the Pebble Time 2  and Pebble Round 2.
