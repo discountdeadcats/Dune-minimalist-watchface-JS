@@ -1,0 +1,27 @@
+{
+    "author": "Discountdeadcats",
+    "dependencies": {},
+    "keywords": [
+        "pebble-app"
+    ],
+    "name": "dune",
+    "pebble": {
+        "displayName": "DUne watchface",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "moddable",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "emery",
+            "gabbro"
+        ],
+        "uuid": "39dd0c70-1d1c-44e6-97e7-c3b5b7b9fc4d",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
